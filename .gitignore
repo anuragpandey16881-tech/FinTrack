@@ -1,0 +1,13 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Local H2 database files
+backend/fintrack-data.mv.db
+backend/fintrack-data.trace.db
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
